@@ -46,11 +46,11 @@
 ## 实测结果
 
 <table>
-<thead><tr><th>场景</th><th>方案</th><th>发尺寸</th><th>收尺寸</th><th>对比原图的色差 ↓</th><th>对比原图的毛糙度 ↓</th><th>综合评分 ↑</th></tr></thead>
+<thead><tr><th>场景</th><th>方案</th><th>发尺寸</th><th>收尺寸</th><th>对比原图的色差 ↓</th><th>综合评分 ↑</th></tr></thead>
 <tbody>
-<tr><th rowspan="3">杂志</th><td>原图直发</td><td>6048×4032<br>11.264 MB</td><td>2880×1920<br>0.524 MB</td><td>1.979</td><td>1.042</td><td>72.31</td></tr>
-<tr><td>Photoshop</td><td>2880×1920<br>16.597 MB</td><td>2880×1920<br>0.550 MB</td><td>1.946</td><td>1.306</td><td>73.48</td></tr>
-<tr><td>新方案</td><td>2880×1920<br>7.233 MB</td><td>2880×1920<br>0.553 MB</td><td>1.945</td><td>1.341</td><td>73.68</td></tr>
+<tr><th rowspan="3">杂志</th><td>原图直发</td><td>6048×4032<br>11.264 MB</td><td>2880×1920<br>0.524 MB</td><td>1.979</td><td>72.31</td></tr>
+<tr><td>Photoshop</td><td>2880×1920<br>16.597 MB</td><td>2880×1920<br>0.550 MB</td><td>1.946</td><td>73.48</td></tr>
+<tr><td>新方案</td><td>2880×1920<br>7.233 MB</td><td>2880×1920<br>0.553 MB</td><td>1.945</td><td>73.68</td></tr>
 </tbody>
 </table>
 

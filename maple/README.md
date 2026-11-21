@@ -46,11 +46,11 @@
 ## 实测结果
 
 <table>
-<thead><tr><th>场景</th><th>方案</th><th>发尺寸</th><th>收尺寸</th><th>对比原图的色差 ↓</th><th>对比原图的毛糙度 ↓</th><th>综合评分 ↑</th></tr></thead>
+<thead><tr><th>场景</th><th>方案</th><th>发尺寸</th><th>收尺寸</th><th>对比原图的色差 ↓</th><th>综合评分 ↑</th></tr></thead>
 <tbody>
-<tr><th rowspan="3">枫叶</th><td>原图直发</td><td>6048×4032<br>18.653 MB</td><td>2880×1920<br>1.043 MB</td><td>4.341</td><td>1.941</td><td>66.97</td></tr>
-<tr><td>Photoshop</td><td>2880×1920<br>16.598 MB</td><td>2880×1920<br>1.100 MB</td><td>4.234</td><td>2.493</td><td>70.89</td></tr>
-<tr><td>新方案</td><td>2880×1920<br>10.534 MB</td><td>2880×1920<br>1.120 MB</td><td>4.219</td><td>2.569</td><td>71.47</td></tr>
+<tr><th rowspan="3">枫叶</th><td>原图直发</td><td>6048×4032<br>18.653 MB</td><td>2880×1920<br>1.043 MB</td><td>4.341</td><td>66.97</td></tr>
+<tr><td>Photoshop</td><td>2880×1920<br>16.598 MB</td><td>2880×1920<br>1.100 MB</td><td>4.234</td><td>70.89</td></tr>
+<tr><td>新方案</td><td>2880×1920<br>10.534 MB</td><td>2880×1920<br>1.120 MB</td><td>4.219</td><td>71.47</td></tr>
 </tbody>
 </table>
 
