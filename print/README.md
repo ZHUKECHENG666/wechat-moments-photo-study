@@ -36,20 +36,22 @@
 
 ## 同位置细节
 
-四幅图取同一片画面，点击可看各自的 PNG。朋友圈图在 2880 × 1920 上取框 (1110, 1095, 1350, 1365)，局部以最近邻放至 175%。相机原图在 6048 × 4032 上取对应框 (2331, 2300, 2835, 2866)，直接保留框内全部 504 × 566 个像素。页面会随屏宽调整显示大小。
+四幅图取同一片画面，点击可看各自的 PNG。朋友圈图在 2880 × 1920 上取框 (1110, 1095, 1350, 1365)，局部以最近邻放至 175%。相机原图在 6048 × 4032 上取对应框 (2331, 2300, 2835, 2866)，直接保留框内全部 504 × 566 个像素。四格预览各为 420 × 473 像素，两列等宽。点击相机原图一格可查看上述原生像素裁切。
 
-| 相机原图 · 原生像素 | 原图直发朋友圈 |
-|---|---|
-| [![杂志 · 原图](original-detail.png)](https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/print/original-detail.png) | [![杂志 · 直发](direct-detail.png)](https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/print/direct-detail.png) |
-| **Photoshop 普通两次立方** | **新方案** |
-| [![杂志 · Photoshop](photoshop-detail.png)](https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/print/photoshop-detail.png) | [![杂志 · 新方案](adaptive-detail.png)](https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/print/adaptive-detail.png) |
+<table>
+<tr><td width="50%" align="center"><strong>相机原图</strong><br><a href="https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/print/original-detail.png"><img src="original-detail-display.png" width="420" alt="杂志 · 相机原图"></a></td><td width="50%" align="center"><strong>原图直发朋友圈</strong><br><a href="https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/print/direct-detail.png"><img src="direct-detail.png" width="420" alt="杂志 · 原图直发朋友圈"></a></td></tr>
+<tr><td width="50%" align="center"><strong>Photoshop 普通两次立方</strong><br><a href="https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/print/photoshop-detail.png"><img src="photoshop-detail.png" width="420" alt="杂志 · Photoshop 普通两次立方"></a></td><td width="50%" align="center"><strong>新方案</strong><br><a href="https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/print/adaptive-detail.png"><img src="adaptive-detail.png" width="420" alt="杂志 · 新方案"></a></td></tr>
+</table>
 
 ## 实测结果
 
-| 场景 | 发送方式 | 发送文件 MB | 实收文件 MB | 平均色差 ΔE76 ↓ | 新增粗糙度 ↓ | 综合评分 ↑ |
-|---|---|---:|---:|---:|---:|---:|
-| 杂志 | 原图直发 | 11.264 | 0.524 | 1.979 | 1.042 | 72.31 |
-| 杂志 | Photoshop | 16.597 | 0.550 | 1.946 | 1.306 | 73.48 |
-| 杂志 | 新方案 | 7.233 | 0.553 | 1.945 | 1.341 | 73.68 |
+<table>
+<thead><tr><th>场景</th><th>方案</th><th>发尺寸</th><th>收尺寸</th><th>对比原图的色差 ↓</th><th>对比原图的毛糙度 ↓</th><th>综合评分 ↑</th></tr></thead>
+<tbody>
+<tr><th rowspan="3">杂志</th><td>原图直发</td><td>6048×4032<br>11.264 MB</td><td>2880×1920<br>0.524 MB</td><td>1.979</td><td>1.042</td><td>72.31</td></tr>
+<tr><td>Photoshop</td><td>2880×1920<br>16.597 MB</td><td>2880×1920<br>0.550 MB</td><td>1.946</td><td>1.306</td><td>73.48</td></tr>
+<tr><td>新方案</td><td>2880×1920<br>7.233 MB</td><td>2880×1920<br>0.553 MB</td><td>1.945</td><td>1.341</td><td>73.68</td></tr>
+</tbody>
+</table>
 
-[返回全部结果与指标说明](../README.md#实验结果)
+[全部场景总分与指标计算方法](../README.md#实验结果)
