@@ -36,22 +36,20 @@
 
 ## 同位置细节
 
-以 2880 × 1920 为基准，截取左上角 (1110, 1095) 至右下角 (1350, 1365) 的区域，以最近邻放大至 175%。原图先缩至同尺寸以对齐位置。每幅局部单独保存为无损 PNG。
+四幅图取同一片画面，点击可看各自的 PNG。朋友圈图在 2880 × 1920 上取框 (1110, 1095, 1350, 1365)，局部以最近邻放至 175%。相机原图在 6048 × 4032 上取对应框 (2331, 2300, 2835, 2866)，直接保留框内全部 504 × 566 个像素。页面会随屏宽调整显示大小。
 
-**相机原图** · 等尺寸参考
+| 相机原图 · 原生像素 | 原图直发朋友圈 |
+|---|---|
+| [![杂志 · 原图](original-detail.png)](https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/print/original-detail.png) | [![杂志 · 直发](direct-detail.png)](https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/print/direct-detail.png) |
+| **Photoshop 普通两次立方** | **新方案** |
+| [![杂志 · Photoshop](photoshop-detail.png)](https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/print/photoshop-detail.png) | [![杂志 · 新方案](adaptive-detail.png)](https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/print/adaptive-detail.png) |
 
-[![杂志 · 相机原图局部](original-detail.png)](https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/print/original-detail.png)
+## 实测结果
 
-**原图直发朋友圈**
+| 场景 | 发送方式 | 发送文件 MB | 实收文件 MB | 平均色差 ΔE76 ↓ | 新增粗糙度 ↓ | 综合评分 ↑ |
+|---|---|---:|---:|---:|---:|---:|
+| 杂志 | 原图直发 | 11.264 | 0.524 | 1.979 | 1.042 | 72.31 |
+| 杂志 | Photoshop | 16.597 | 0.550 | 1.946 | 1.306 | 73.48 |
+| 杂志 | 新方案 | 7.233 | 0.553 | 1.945 | 1.341 | 73.68 |
 
-[![杂志 · 原图直发朋友圈局部](direct-detail.png)](https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/print/direct-detail.png)
-
-**Photoshop 缩图后发朋友圈**
-
-[![杂志 · Photoshop 缩图后发朋友圈局部](photoshop-detail.png)](https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/print/photoshop-detail.png)
-
-**新方案处理后发朋友圈**
-
-[![杂志 · 新方案处理后发朋友圈局部](adaptive-detail.png)](https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/print/adaptive-detail.png)
-
-[返回实验结果](../README.md#实验结果)
+[返回全部结果与指标说明](../README.md#实验结果)
