@@ -1,0 +1,2894 @@
+{
+  "version": "轻简照片压缩 1.3 · 朋友圈快压",
+  "unit": "尺寸为方向校正后的宽、高（像素），文件体积为字节",
+  "fields": {
+    "baseline": "普通 Lanczos3 缩图，JPEG Q98 4:4:4 发送稿的预测分",
+    "photoshop": "Photoshop 普通两次立方，PNG 发送稿的预测分",
+    "predicted": "快速 CNN 轻量 JPG 的预测分",
+    "received": "模型预计的接收尺寸"
+  },
+  "photos": [
+    {
+      "photo": "DSC_3972",
+      "group": "尼康留出组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 17464485,
+      "sent_bytes": 5743654,
+      "predicted": 76.88978429,
+      "baseline": 72.20877993,
+      "photoshop": 72.35660585
+    },
+    {
+      "photo": "DSC_3973",
+      "group": "尼康留出组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 18512545,
+      "sent_bytes": 6264957,
+      "predicted": 76.32395771,
+      "baseline": 71.66042726,
+      "photoshop": 71.93936604
+    },
+    {
+      "photo": "DSC_3974",
+      "group": "尼康留出组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 18047490,
+      "sent_bytes": 5977632,
+      "predicted": 76.59795627,
+      "baseline": 72.45012724,
+      "photoshop": 72.6632388
+    },
+    {
+      "photo": "DSC_3975",
+      "group": "尼康留出组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 18082040,
+      "sent_bytes": 5965829,
+      "predicted": 76.00790603,
+      "baseline": 71.74411264,
+      "photoshop": 72.00338862
+    },
+    {
+      "photo": "DSC_3976",
+      "group": "尼康留出组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 16745200,
+      "sent_bytes": 5165643,
+      "predicted": 77.55232935,
+      "baseline": 74.15489936,
+      "photoshop": 74.19217623
+    },
+    {
+      "photo": "DSC_3977",
+      "group": "尼康留出组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 17854179,
+      "sent_bytes": 6028911,
+      "predicted": 76.07396277,
+      "baseline": 71.09745794,
+      "photoshop": 71.41447273
+    },
+    {
+      "photo": "DSC_3978",
+      "group": "尼康留出组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 18683101,
+      "sent_bytes": 5696395,
+      "predicted": 76.43456801,
+      "baseline": 71.73960295,
+      "photoshop": 72.02896913
+    },
+    {
+      "photo": "DSC_3979",
+      "group": "尼康留出组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 17951641,
+      "sent_bytes": 6095485,
+      "predicted": 76.66258516,
+      "baseline": 72.14434476,
+      "photoshop": 72.32421611
+    },
+    {
+      "photo": "DSC_3980",
+      "group": "尼康留出组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 17276640,
+      "sent_bytes": 5561665,
+      "predicted": 77.39048136,
+      "baseline": 73.52212971,
+      "photoshop": 73.67689477
+    },
+    {
+      "photo": "DSC_3981",
+      "group": "尼康留出组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 17227493,
+      "sent_bytes": 5472130,
+      "predicted": 77.80022786,
+      "baseline": 73.21369316,
+      "photoshop": 73.53216252
+    },
+    {
+      "photo": "DSC_3982",
+      "group": "尼康留出组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 14433651,
+      "sent_bytes": 3694298,
+      "predicted": 78.33878849,
+      "baseline": 75.53167697,
+      "photoshop": 75.65043522
+    },
+    {
+      "photo": "DSC_3983",
+      "group": "尼康留出组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 14761395,
+      "sent_bytes": 3846608,
+      "predicted": 78.50516752,
+      "baseline": 75.60556371,
+      "photoshop": 75.80325186
+    },
+    {
+      "photo": "DSC_3984",
+      "group": "尼康留出组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 15365994,
+      "sent_bytes": 4291225,
+      "predicted": 78.08030476,
+      "baseline": 74.305821,
+      "photoshop": 74.57919899
+    },
+    {
+      "photo": "DSC_3985",
+      "group": "尼康留出组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 17646376,
+      "sent_bytes": 5176218,
+      "predicted": 77.83709423,
+      "baseline": 74.3809688,
+      "photoshop": 74.6093172
+    },
+    {
+      "photo": "DSC_3986",
+      "group": "尼康留出组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 17861743,
+      "sent_bytes": 5814567,
+      "predicted": 76.34194055,
+      "baseline": 72.15018512,
+      "photoshop": 72.26475616
+    },
+    {
+      "photo": "DSC_3987",
+      "group": "尼康留出组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 17950853,
+      "sent_bytes": 5774509,
+      "predicted": 76.08428644,
+      "baseline": 72.13613043,
+      "photoshop": 72.23725688
+    },
+    {
+      "photo": "DSC_3988",
+      "group": "尼康留出组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 18494730,
+      "sent_bytes": 6339558,
+      "predicted": 74.66967095,
+      "baseline": 69.03442775,
+      "photoshop": 69.20817673
+    },
+    {
+      "photo": "DSC_3989",
+      "group": "尼康留出组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 15187983,
+      "sent_bytes": 4266767,
+      "predicted": 78.20262101,
+      "baseline": 74.50735432,
+      "photoshop": 74.78837139
+    },
+    {
+      "photo": "DSC_5089",
+      "group": "实发展示组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 18653162,
+      "sent_bytes": 5572912,
+      "predicted": 74.90939536,
+      "baseline": 70.61968885,
+      "photoshop": 70.88869986
+    },
+    {
+      "photo": "DSC_5778",
+      "group": "实发展示组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 11263942,
+      "sent_bytes": 2956288,
+      "predicted": 75.48896538,
+      "baseline": 73.55142541,
+      "photoshop": 73.48138652
+    },
+    {
+      "photo": "DSC_6192",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 15947501,
+      "sent_bytes": 3814373,
+      "predicted": 79.25697856,
+      "baseline": 77.32118469,
+      "photoshop": 77.39542947
+    },
+    {
+      "photo": "DSC_6194",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 17097573,
+      "sent_bytes": 4700947,
+      "predicted": 77.80587074,
+      "baseline": 74.76952372,
+      "photoshop": 74.96800881
+    },
+    {
+      "photo": "DSC_6195",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 18206360,
+      "sent_bytes": 5181446,
+      "predicted": 76.21264688,
+      "baseline": 72.38915399,
+      "photoshop": 72.72750922
+    },
+    {
+      "photo": "DSC_6196",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 18159156,
+      "sent_bytes": 6221941,
+      "predicted": 73.30967979,
+      "baseline": 67.61680004,
+      "photoshop": 68.04907037
+    },
+    {
+      "photo": "DSC_6197",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 18360497,
+      "sent_bytes": 6294687,
+      "predicted": 73.70104536,
+      "baseline": 67.62647685,
+      "photoshop": 68.08352075
+    },
+    {
+      "photo": "DSC_6198",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 16435766,
+      "sent_bytes": 4736826,
+      "predicted": 74.94248049,
+      "baseline": 71.10722984,
+      "photoshop": 71.43359152
+    },
+    {
+      "photo": "DSC_6199",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 15519186,
+      "sent_bytes": 4102968,
+      "predicted": 75.23702913,
+      "baseline": 71.96415027,
+      "photoshop": 72.25344899
+    },
+    {
+      "photo": "DSC_6200",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 18150443,
+      "sent_bytes": 5121493,
+      "predicted": 78.25475125,
+      "baseline": 75.37826219,
+      "photoshop": 75.55747991
+    },
+    {
+      "photo": "DSC_6201",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 18737503,
+      "sent_bytes": 5610232,
+      "predicted": 74.36380786,
+      "baseline": 71.29436286,
+      "photoshop": 71.36643522
+    },
+    {
+      "photo": "DSC_6202",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 13524655,
+      "sent_bytes": 3225158,
+      "predicted": 72.89512039,
+      "baseline": 70.42742711,
+      "photoshop": 70.26278747
+    },
+    {
+      "photo": "DSC_6203",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 18362742,
+      "sent_bytes": 5077249,
+      "predicted": 75.67626657,
+      "baseline": 72.1620319,
+      "photoshop": 72.38144198
+    },
+    {
+      "photo": "DSC_6204",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 18855531,
+      "sent_bytes": 5862219,
+      "predicted": 76.37630211,
+      "baseline": 73.87955126,
+      "photoshop": 73.9241033
+    },
+    {
+      "photo": "DSC_6205",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 18932290,
+      "sent_bytes": 6014057,
+      "predicted": 75.71973413,
+      "baseline": 73.06977724,
+      "photoshop": 73.04363619
+    },
+    {
+      "photo": "DSC_6206",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 18955151,
+      "sent_bytes": 6065722,
+      "predicted": 74.89911935,
+      "baseline": 72.06637816,
+      "photoshop": 72.06061023
+    },
+    {
+      "photo": "DSC_6207",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 16633940,
+      "sent_bytes": 4244088,
+      "predicted": 75.51146005,
+      "baseline": 72.87180424,
+      "photoshop": 73.05160108
+    },
+    {
+      "photo": "DSC_6208",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 14498215,
+      "sent_bytes": 3341278,
+      "predicted": 77.46842866,
+      "baseline": 75.89557611,
+      "photoshop": 75.98659855
+    },
+    {
+      "photo": "DSC_6209",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 18846702,
+      "sent_bytes": 5998648,
+      "predicted": 74.91712956,
+      "baseline": 72.20223933,
+      "photoshop": 72.22739118
+    },
+    {
+      "photo": "DSC_6210",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 20362151,
+      "sent_bytes": 5714917,
+      "predicted": 76.52348951,
+      "baseline": 74.202591,
+      "photoshop": 74.04361431
+    },
+    {
+      "photo": "DSC_6211",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 20589564,
+      "sent_bytes": 5758882,
+      "predicted": 76.29168259,
+      "baseline": 73.93648191,
+      "photoshop": 73.77750665
+    },
+    {
+      "photo": "DSC_6212",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 20434743,
+      "sent_bytes": 5801472,
+      "predicted": 76.27624309,
+      "baseline": 73.46603173,
+      "photoshop": 73.56534213
+    },
+    {
+      "photo": "DSC_6213",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 20376625,
+      "sent_bytes": 5761989,
+      "predicted": 76.39926599,
+      "baseline": 73.66702508,
+      "photoshop": 73.75368406
+    },
+    {
+      "photo": "DSC_6214",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 19479614,
+      "sent_bytes": 5425363,
+      "predicted": 76.41096054,
+      "baseline": 73.97228585,
+      "photoshop": 74.04384721
+    },
+    {
+      "photo": "DSC_6215",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 20913165,
+      "sent_bytes": 5945768,
+      "predicted": 75.80452472,
+      "baseline": 73.04162667,
+      "photoshop": 73.09048679
+    },
+    {
+      "photo": "DSC_6216",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 17626257,
+      "sent_bytes": 5837841,
+      "predicted": 71.68400218,
+      "baseline": 66.50710755,
+      "photoshop": 66.75569419
+    },
+    {
+      "photo": "DSC_6217",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 18232734,
+      "sent_bytes": 6133413,
+      "predicted": 72.79937991,
+      "baseline": 67.82716366,
+      "photoshop": 68.07468608
+    },
+    {
+      "photo": "DSC_6218",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 12586591,
+      "sent_bytes": 2735844,
+      "predicted": 75.85106674,
+      "baseline": 74.43548546,
+      "photoshop": 73.99133662
+    },
+    {
+      "photo": "DSC_6219",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 20063849,
+      "sent_bytes": 5770930,
+      "predicted": 76.63859547,
+      "baseline": 73.89694017,
+      "photoshop": 73.95136128
+    },
+    {
+      "photo": "DSC_6875",
+      "group": "实发展示组",
+      "camera": "NIKON Z f",
+      "original": [
+        5651,
+        3767
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 19471093,
+      "sent_bytes": 3133279,
+      "predicted": 77.33389887,
+      "baseline": 75.7694183,
+      "photoshop": 75.63818433
+    },
+    {
+      "photo": "DSC_8718",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 11227231,
+      "sent_bytes": 2309830,
+      "predicted": 74.95212726,
+      "baseline": 73.06732879,
+      "photoshop": 73.15137975
+    },
+    {
+      "photo": "DSC_8719",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 10288086,
+      "sent_bytes": 2244696,
+      "predicted": 75.32048665,
+      "baseline": 73.48160363,
+      "photoshop": 73.528136
+    },
+    {
+      "photo": "DSC_8720",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 16628809,
+      "sent_bytes": 3854516,
+      "predicted": 70.10242931,
+      "baseline": 67.32622763,
+      "photoshop": 67.02816029
+    },
+    {
+      "photo": "DSC_8721",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 14996987,
+      "sent_bytes": 3447780,
+      "predicted": 71.62974298,
+      "baseline": 69.65021395,
+      "photoshop": 69.50473068
+    },
+    {
+      "photo": "DSC_8722",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 14279420,
+      "sent_bytes": 3339147,
+      "predicted": 73.15804915,
+      "baseline": 71.19676302,
+      "photoshop": 71.07954032
+    },
+    {
+      "photo": "DSC_8723",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 15774139,
+      "sent_bytes": 3640536,
+      "predicted": 70.94183121,
+      "baseline": 68.52197483,
+      "photoshop": 68.357638
+    },
+    {
+      "photo": "DSC_8724",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 16239539,
+      "sent_bytes": 3712901,
+      "predicted": 70.22332621,
+      "baseline": 67.52163347,
+      "photoshop": 67.34054324
+    },
+    {
+      "photo": "DSC_8725",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 15715518,
+      "sent_bytes": 3604301,
+      "predicted": 70.69598857,
+      "baseline": 68.16545266,
+      "photoshop": 68.06209318
+    },
+    {
+      "photo": "DSC_8726",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 14001015,
+      "sent_bytes": 3252015,
+      "predicted": 74.46912916,
+      "baseline": 72.13830249,
+      "photoshop": 72.22627202
+    },
+    {
+      "photo": "DSC_8727",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 13162254,
+      "sent_bytes": 3018091,
+      "predicted": 76.24767392,
+      "baseline": 74.17193809,
+      "photoshop": 74.17426225
+    },
+    {
+      "photo": "DSC_8728",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 9592690,
+      "sent_bytes": 1963281,
+      "predicted": 79.21105697,
+      "baseline": 78.17076297,
+      "photoshop": 78.15302034
+    },
+    {
+      "photo": "DSC_8729",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 9360158,
+      "sent_bytes": 1922272,
+      "predicted": 77.02731369,
+      "baseline": 75.88259606,
+      "photoshop": 75.77943163
+    },
+    {
+      "photo": "DSC_8730",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 9557927,
+      "sent_bytes": 1956103,
+      "predicted": 76.30192916,
+      "baseline": 75.08021405,
+      "photoshop": 75.0235607
+    },
+    {
+      "photo": "DSC_8731",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 8448217,
+      "sent_bytes": 1656869,
+      "predicted": 77.79628765,
+      "baseline": 76.87397304,
+      "photoshop": 76.91555509
+    },
+    {
+      "photo": "DSC_8732",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 8298006,
+      "sent_bytes": 1607234,
+      "predicted": 78.00094062,
+      "baseline": 77.03553823,
+      "photoshop": 77.07116747
+    },
+    {
+      "photo": "DSC_8733",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 8669786,
+      "sent_bytes": 1807397,
+      "predicted": 76.3494021,
+      "baseline": 75.14133818,
+      "photoshop": 75.19526161
+    },
+    {
+      "photo": "DSC_8734",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 12384387,
+      "sent_bytes": 2744779,
+      "predicted": 76.29889344,
+      "baseline": 74.58192028,
+      "photoshop": 74.63638977
+    },
+    {
+      "photo": "DSC_8735",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 12323768,
+      "sent_bytes": 2740161,
+      "predicted": 76.11891693,
+      "baseline": 74.47950752,
+      "photoshop": 74.52443201
+    },
+    {
+      "photo": "DSC_8736",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 13108190,
+      "sent_bytes": 2923672,
+      "predicted": 76.15111509,
+      "baseline": 74.28964628,
+      "photoshop": 74.26507322
+    },
+    {
+      "photo": "DSC_8737",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 12620184,
+      "sent_bytes": 2831709,
+      "predicted": 76.36862467,
+      "baseline": 74.76120376,
+      "photoshop": 74.74253232
+    },
+    {
+      "photo": "DSC_8738",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 13014888,
+      "sent_bytes": 2956326,
+      "predicted": 75.84945283,
+      "baseline": 74.13287607,
+      "photoshop": 74.13045399
+    },
+    {
+      "photo": "DSC_8739",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 9900674,
+      "sent_bytes": 2251802,
+      "predicted": 73.52786984,
+      "baseline": 70.74378898,
+      "photoshop": 70.81133488
+    },
+    {
+      "photo": "DSC_8740",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 14038121,
+      "sent_bytes": 3128503,
+      "predicted": 74.01791889,
+      "baseline": 71.92791734,
+      "photoshop": 71.85783947
+    },
+    {
+      "photo": "DSC_8741",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 14007121,
+      "sent_bytes": 3151781,
+      "predicted": 74.07621447,
+      "baseline": 71.95713773,
+      "photoshop": 71.93291632
+    },
+    {
+      "photo": "DSC_8742",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 13172393,
+      "sent_bytes": 2878288,
+      "predicted": 76.03079274,
+      "baseline": 74.34060645,
+      "photoshop": 74.31139364
+    },
+    {
+      "photo": "DSC_8743",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 13103844,
+      "sent_bytes": 2850752,
+      "predicted": 75.85636423,
+      "baseline": 74.44691793,
+      "photoshop": 74.38714358
+    },
+    {
+      "photo": "DSC_8744",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        6048,
+        4032
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 13329242,
+      "sent_bytes": 2959983,
+      "predicted": 76.29310052,
+      "baseline": 74.49787882,
+      "photoshop": 74.41530414
+    },
+    {
+      "photo": "DSC_8745",
+      "group": "尼康开发组",
+      "camera": "NIKON Z f",
+      "original": [
+        4032,
+        6048
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 12763675,
+      "sent_bytes": 2862858,
+      "predicted": 72.54080219,
+      "baseline": 70.55434208,
+      "photoshop": 70.47963046
+    },
+    {
+      "photo": "DSCF0179",
+      "group": "富士独立组",
+      "camera": "GFX100S II",
+      "original": [
+        4000,
+        3000
+      ],
+      "sent": [
+        2880,
+        2160
+      ],
+      "received": [
+        2560,
+        1920
+      ],
+      "original_bytes": 7618538,
+      "sent_bytes": 3673404,
+      "predicted": 73.19226633,
+      "baseline": 73.79542556,
+      "photoshop": 74.16799086
+    },
+    {
+      "photo": "DSCF0180",
+      "group": "富士独立组",
+      "camera": "GFX100S II",
+      "original": [
+        4000,
+        3000
+      ],
+      "sent": [
+        2880,
+        2160
+      ],
+      "received": [
+        2560,
+        1920
+      ],
+      "original_bytes": 6789177,
+      "sent_bytes": 4323885,
+      "predicted": 74.31633274,
+      "baseline": 74.70904727,
+      "photoshop": 75.11989782
+    },
+    {
+      "photo": "DSCF0181",
+      "group": "富士独立组",
+      "camera": "GFX100S II",
+      "original": [
+        4000,
+        3000
+      ],
+      "sent": [
+        2880,
+        2160
+      ],
+      "received": [
+        2560,
+        1920
+      ],
+      "original_bytes": 6805426,
+      "sent_bytes": 4125452,
+      "predicted": 72.15092887,
+      "baseline": 72.01843492,
+      "photoshop": 72.46238267
+    },
+    {
+      "photo": "DSCF0182",
+      "group": "富士独立组",
+      "camera": "GFX100S II",
+      "original": [
+        3000,
+        4000
+      ],
+      "sent": [
+        2160,
+        2880
+      ],
+      "received": [
+        1920,
+        2560
+      ],
+      "original_bytes": 7764851,
+      "sent_bytes": 5129308,
+      "predicted": 70.44396392,
+      "baseline": 70.63171708,
+      "photoshop": 70.91258914
+    },
+    {
+      "photo": "DSCF0183",
+      "group": "富士独立组",
+      "camera": "GFX100S II",
+      "original": [
+        4000,
+        3000
+      ],
+      "sent": [
+        2880,
+        2160
+      ],
+      "received": [
+        2560,
+        1920
+      ],
+      "original_bytes": 5923147,
+      "sent_bytes": 2372342,
+      "predicted": 73.0999724,
+      "baseline": 73.80960872,
+      "photoshop": 74.23692271
+    },
+    {
+      "photo": "DSCF0184",
+      "group": "富士独立组",
+      "camera": "GFX100S II",
+      "original": [
+        4000,
+        3000
+      ],
+      "sent": [
+        2880,
+        2160
+      ],
+      "received": [
+        2560,
+        1920
+      ],
+      "original_bytes": 5295787,
+      "sent_bytes": 2044712,
+      "predicted": 72.64976245,
+      "baseline": 73.45438157,
+      "photoshop": 73.8796846
+    },
+    {
+      "photo": "DSCF0185",
+      "group": "富士独立组",
+      "camera": "GFX100S II",
+      "original": [
+        3000,
+        4000
+      ],
+      "sent": [
+        2160,
+        2880
+      ],
+      "received": [
+        1920,
+        2560
+      ],
+      "original_bytes": 8151338,
+      "sent_bytes": 5628820,
+      "predicted": 68.58508132,
+      "baseline": 68.27665085,
+      "photoshop": 68.49131185
+    },
+    {
+      "photo": "DSCF0186",
+      "group": "富士独立组",
+      "camera": "GFX100S II",
+      "original": [
+        3000,
+        4000
+      ],
+      "sent": [
+        2160,
+        2880
+      ],
+      "received": [
+        1920,
+        2560
+      ],
+      "original_bytes": 8031124,
+      "sent_bytes": 5930178,
+      "predicted": 65.39999863,
+      "baseline": 65.63722999,
+      "photoshop": 65.80845907
+    },
+    {
+      "photo": "DSCF0188",
+      "group": "富士独立组",
+      "camera": "GFX100S II",
+      "original": [
+        4000,
+        3000
+      ],
+      "sent": [
+        2880,
+        2160
+      ],
+      "received": [
+        2560,
+        1920
+      ],
+      "original_bytes": 7860904,
+      "sent_bytes": 5198906,
+      "predicted": 67.93478621,
+      "baseline": 68.08279786,
+      "photoshop": 68.17389404
+    },
+    {
+      "photo": "DSCF0189",
+      "group": "富士独立组",
+      "camera": "GFX100S II",
+      "original": [
+        3000,
+        4000
+      ],
+      "sent": [
+        2160,
+        2880
+      ],
+      "received": [
+        1920,
+        2560
+      ],
+      "original_bytes": 8008708,
+      "sent_bytes": 5706040,
+      "predicted": 66.90354034,
+      "baseline": 67.1786848,
+      "photoshop": 67.31592418
+    },
+    {
+      "photo": "DSCF0190",
+      "group": "富士独立组",
+      "camera": "GFX100S II",
+      "original": [
+        3000,
+        4000
+      ],
+      "sent": [
+        2160,
+        2880
+      ],
+      "received": [
+        1920,
+        2560
+      ],
+      "original_bytes": 7916125,
+      "sent_bytes": 5099690,
+      "predicted": 67.4824309,
+      "baseline": 67.80460388,
+      "photoshop": 68.01043869
+    },
+    {
+      "photo": "DSCF0191",
+      "group": "富士独立组",
+      "camera": "GFX100S II",
+      "original": [
+        3000,
+        4000
+      ],
+      "sent": [
+        2160,
+        2880
+      ],
+      "received": [
+        1920,
+        2560
+      ],
+      "original_bytes": 8042563,
+      "sent_bytes": 4920145,
+      "predicted": 70.43062572,
+      "baseline": 70.34109347,
+      "photoshop": 70.71764265
+    },
+    {
+      "photo": "DSCF0192",
+      "group": "富士独立组",
+      "camera": "GFX100S II",
+      "original": [
+        3000,
+        4000
+      ],
+      "sent": [
+        2160,
+        2880
+      ],
+      "received": [
+        1920,
+        2560
+      ],
+      "original_bytes": 7309774,
+      "sent_bytes": 4474880,
+      "predicted": 71.81647402,
+      "baseline": 72.04643218,
+      "photoshop": 72.35441934
+    },
+    {
+      "photo": "DSCF0193",
+      "group": "富士独立组",
+      "camera": "GFX100S II",
+      "original": [
+        3000,
+        4000
+      ],
+      "sent": [
+        2160,
+        2880
+      ],
+      "received": [
+        1920,
+        2560
+      ],
+      "original_bytes": 7665435,
+      "sent_bytes": 4558503,
+      "predicted": 69.05511999,
+      "baseline": 69.15109708,
+      "photoshop": 69.33889897
+    },
+    {
+      "photo": "DSCF0194",
+      "group": "富士独立组",
+      "camera": "GFX100S II",
+      "original": [
+        3000,
+        4000
+      ],
+      "sent": [
+        2160,
+        2880
+      ],
+      "received": [
+        1920,
+        2560
+      ],
+      "original_bytes": 8183480,
+      "sent_bytes": 4941091,
+      "predicted": 70.12491994,
+      "baseline": 70.21389721,
+      "photoshop": 70.43668
+    },
+    {
+      "photo": "DSCF0195",
+      "group": "富士独立组",
+      "camera": "GFX100S II",
+      "original": [
+        4000,
+        3000
+      ],
+      "sent": [
+        2880,
+        2160
+      ],
+      "received": [
+        2560,
+        1920
+      ],
+      "original_bytes": 6929288,
+      "sent_bytes": 4387091,
+      "predicted": 71.32524824,
+      "baseline": 71.60071553,
+      "photoshop": 71.8703558
+    },
+    {
+      "photo": "DSCF4717",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 15236151,
+      "sent_bytes": 3504661,
+      "predicted": 75.63730342,
+      "baseline": 72.29848581,
+      "photoshop": 72.44075855
+    },
+    {
+      "photo": "DSCF4718",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 11203016,
+      "sent_bytes": 2258016,
+      "predicted": 75.22006966,
+      "baseline": 72.90943075,
+      "photoshop": 73.10385341
+    },
+    {
+      "photo": "DSCF4719",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 11967459,
+      "sent_bytes": 2509160,
+      "predicted": 72.37036525,
+      "baseline": 69.00330014,
+      "photoshop": 69.16526668
+    },
+    {
+      "photo": "DSCF4720",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 12114103,
+      "sent_bytes": 2553661,
+      "predicted": 72.15011571,
+      "baseline": 69.05576747,
+      "photoshop": 69.22221685
+    },
+    {
+      "photo": "DSCF4721",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 12540786,
+      "sent_bytes": 2670255,
+      "predicted": 74.06117589,
+      "baseline": 71.54544869,
+      "photoshop": 71.71725853
+    },
+    {
+      "photo": "DSCF4722",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        4160,
+        6240
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 11912957,
+      "sent_bytes": 2344444,
+      "predicted": 76.19958687,
+      "baseline": 74.77980695,
+      "photoshop": 74.76880644
+    },
+    {
+      "photo": "DSCF4723",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 11230540,
+      "sent_bytes": 2265283,
+      "predicted": 76.50070894,
+      "baseline": 74.19545639,
+      "photoshop": 74.29457039
+    },
+    {
+      "photo": "DSCF4724",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 10979838,
+      "sent_bytes": 2106142,
+      "predicted": 77.03260694,
+      "baseline": 75.5851815,
+      "photoshop": 75.68919668
+    },
+    {
+      "photo": "DSCF4725",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 13569160,
+      "sent_bytes": 3183753,
+      "predicted": 74.60977294,
+      "baseline": 69.5632865,
+      "photoshop": 70.00337584
+    },
+    {
+      "photo": "DSCF4726",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 13827235,
+      "sent_bytes": 3230047,
+      "predicted": 74.29277717,
+      "baseline": 69.23057385,
+      "photoshop": 69.50881137
+    },
+    {
+      "photo": "DSCF4727",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        4160,
+        6240
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 12534561,
+      "sent_bytes": 2592950,
+      "predicted": 74.4586362,
+      "baseline": 71.85542301,
+      "photoshop": 71.8849588
+    },
+    {
+      "photo": "DSCF4728",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        4160,
+        6240
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 12461262,
+      "sent_bytes": 2552249,
+      "predicted": 75.28725483,
+      "baseline": 72.75286178,
+      "photoshop": 72.85945504
+    },
+    {
+      "photo": "DSCF4729",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        4160,
+        6240
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 11902217,
+      "sent_bytes": 2377407,
+      "predicted": 75.60011045,
+      "baseline": 73.28187018,
+      "photoshop": 73.37488122
+    },
+    {
+      "photo": "DSCF4730",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        4160,
+        6240
+      ],
+      "sent": [
+        1920,
+        2880
+      ],
+      "received": [
+        1920,
+        2880
+      ],
+      "original_bytes": 11559999,
+      "sent_bytes": 2270168,
+      "predicted": 75.47853928,
+      "baseline": 73.64710878,
+      "photoshop": 73.72751194
+    },
+    {
+      "photo": "DSCF4731",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 14172337,
+      "sent_bytes": 3182773,
+      "predicted": 75.20441563,
+      "baseline": 72.18074236,
+      "photoshop": 72.4138987
+    },
+    {
+      "photo": "DSCF4732",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 15800302,
+      "sent_bytes": 3306719,
+      "predicted": 73.64762152,
+      "baseline": 71.05639925,
+      "photoshop": 71.15778484
+    },
+    {
+      "photo": "DSCF4733",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 16346317,
+      "sent_bytes": 3739716,
+      "predicted": 74.67519994,
+      "baseline": 71.71392417,
+      "photoshop": 71.85773448
+    },
+    {
+      "photo": "DSCF4734",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 11917248,
+      "sent_bytes": 2427707,
+      "predicted": 75.62971972,
+      "baseline": 74.36401024,
+      "photoshop": 74.31472018
+    },
+    {
+      "photo": "DSCF4735",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 14993858,
+      "sent_bytes": 3040996,
+      "predicted": 71.61966111,
+      "baseline": 69.38125822,
+      "photoshop": 69.3813902
+    },
+    {
+      "photo": "DSCF4736",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 15560801,
+      "sent_bytes": 3208251,
+      "predicted": 69.94947574,
+      "baseline": 67.2788565,
+      "photoshop": 67.19758802
+    },
+    {
+      "photo": "DSCF4737",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 13824502,
+      "sent_bytes": 2892368,
+      "predicted": 71.5609481,
+      "baseline": 69.1602114,
+      "photoshop": 69.11327764
+    },
+    {
+      "photo": "DSCF4738",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 13679115,
+      "sent_bytes": 2816222,
+      "predicted": 71.43733732,
+      "baseline": 69.14806639,
+      "photoshop": 69.13640583
+    },
+    {
+      "photo": "DSCF4739",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 14104594,
+      "sent_bytes": 2956200,
+      "predicted": 71.02968354,
+      "baseline": 68.11587001,
+      "photoshop": 68.07512052
+    },
+    {
+      "photo": "DSCF4740",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 14121011,
+      "sent_bytes": 3008127,
+      "predicted": 71.4873315,
+      "baseline": 68.60139797,
+      "photoshop": 68.62990124
+    },
+    {
+      "photo": "DSCF4741",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 13519409,
+      "sent_bytes": 2799668,
+      "predicted": 71.21132098,
+      "baseline": 68.39317182,
+      "photoshop": 68.52916397
+    },
+    {
+      "photo": "DSCF4742",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 14328742,
+      "sent_bytes": 3191982,
+      "predicted": 73.02759114,
+      "baseline": 70.22695845,
+      "photoshop": 70.26098705
+    },
+    {
+      "photo": "DSCF4743",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 15397290,
+      "sent_bytes": 3559001,
+      "predicted": 73.39197028,
+      "baseline": 71.02606299,
+      "photoshop": 70.99138278
+    },
+    {
+      "photo": "DSCF5175",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 12575445,
+      "sent_bytes": 2479928,
+      "predicted": 75.1988741,
+      "baseline": 74.210844,
+      "photoshop": 74.20212843
+    },
+    {
+      "photo": "DSCF5176",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 13959166,
+      "sent_bytes": 2957550,
+      "predicted": 74.05554458,
+      "baseline": 72.40281005,
+      "photoshop": 72.3232321
+    },
+    {
+      "photo": "DSCF5177",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 14792156,
+      "sent_bytes": 3130776,
+      "predicted": 73.73447366,
+      "baseline": 72.23507501,
+      "photoshop": 72.1812752
+    },
+    {
+      "photo": "DSCF5178",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 14940656,
+      "sent_bytes": 3236247,
+      "predicted": 74.72564312,
+      "baseline": 73.39573972,
+      "photoshop": 73.31029236
+    },
+    {
+      "photo": "DSCF5179",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 12259439,
+      "sent_bytes": 2375443,
+      "predicted": 76.36797548,
+      "baseline": 75.24852285,
+      "photoshop": 75.14428834
+    },
+    {
+      "photo": "DSCF5180",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 12074789,
+      "sent_bytes": 2309030,
+      "predicted": 76.76291641,
+      "baseline": 75.68715338,
+      "photoshop": 75.80733022
+    },
+    {
+      "photo": "DSCF5184",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 12981205,
+      "sent_bytes": 2683597,
+      "predicted": 78.21523617,
+      "baseline": 77.0782197,
+      "photoshop": 77.05174631
+    },
+    {
+      "photo": "DSCF5185",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 12054857,
+      "sent_bytes": 2379413,
+      "predicted": 79.71204676,
+      "baseline": 78.86950528,
+      "photoshop": 78.88374939
+    },
+    {
+      "photo": "DSCF5186",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 12477931,
+      "sent_bytes": 2441556,
+      "predicted": 77.56026097,
+      "baseline": 76.46750528,
+      "photoshop": 76.49463196
+    },
+    {
+      "photo": "DSCF5187",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 12570364,
+      "sent_bytes": 2492399,
+      "predicted": 77.63650705,
+      "baseline": 76.51680601,
+      "photoshop": 76.55774975
+    },
+    {
+      "photo": "DSCF5188",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 16852399,
+      "sent_bytes": 5321465,
+      "predicted": 77.10969737,
+      "baseline": 75.29551215,
+      "photoshop": 75.19681271
+    },
+    {
+      "photo": "DSCF5189",
+      "group": "富士独立组",
+      "camera": "X-T30 II",
+      "original": [
+        6240,
+        4160
+      ],
+      "sent": [
+        2880,
+        1920
+      ],
+      "received": [
+        2880,
+        1920
+      ],
+      "original_bytes": 17072512,
+      "sent_bytes": 5638790,
+      "predicted": 76.29797442,
+      "baseline": 74.26566398,
+      "photoshop": 74.14563118
+    }
+  ]
+}
