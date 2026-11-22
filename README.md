@@ -38,7 +38,7 @@
 
 ## 实验结果
 
-以下均为从朋友圈保存的真实 JPEG。原图直发和 Photoshop 使用先前同场景的实收文件，快速 CNN 使用本次实收文件。三张的实收尺寸均为 2880 × 1920。大尺寸原图直发时，微信内部重采样的细节尚未完全确认，因此原图直发只报告实收分数。
+以下均为从朋友圈保存的真实 JPEG。原图直发和 Photoshop 使用先前同场景的实收文件，快速 CNN 使用本次实收文件。三张的实收尺寸均为 2880 × 1920。大尺寸原图直发时，微信内部重采样的细节尚未完全确认，因此原图直发只报告实收分数。[人像实测结果](portrait/README.md)
 
 <table>
 <thead><tr><th>场景</th><th>方案</th><th>发尺寸</th><th>收尺寸</th><th>对比原图的色差 ↓</th><th>综合评分 ↑</th></tr></thead>
@@ -59,7 +59,7 @@
 
 ## 同位置细节
 
-每组四张独立图片占相同的预览面积。相机原图直接在原始分辨率上裁切；另外三格取自真实回传图。点击局部可打开独立 PNG，场景页可查看四张全分辨率照片。
+枫叶与杂志各展示四张独立图片，预览面积相同。相机原图直接在原始分辨率上裁切；另外三格取自真实回传图。点击局部可打开独立 PNG，场景页可查看四张全分辨率照片。
 
 ### 枫叶 · 叶尖与交错的枝条
 
@@ -79,15 +79,6 @@
 <tr><td width="50%" align="center"><strong>Photoshop 普通两次立方</strong><br><a href="https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/print/photoshop-detail.png"><img src="print/photoshop-detail.png" width="420" alt="杂志 · Photoshop 普通两次立方局部"></a></td><td width="50%" align="center"><strong>快速 CNN · 轻量 JPG</strong><br><a href="https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/print/fast-cnn-detail.png"><img src="print/fast-cnn-detail.png" width="420" alt="杂志 · 快速 CNN · 轻量 JPG局部"></a></td></tr>
 </table>
 
-### 人像 · 眼周与发丝
-
-取人物头部，观察发丝与背景的交界、眼周轮廓和肤色过渡。 [查看四张完整照片](portrait/README.md#完整照片)
-
-<table>
-<tr><td width="50%" align="center"><strong>相机原图</strong><br><a href="https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/portrait/original-detail.png"><img src="portrait/original-detail-display.png" width="378" alt="人像 · 相机原图局部"></a></td><td width="50%" align="center"><strong>原图直发</strong><br><a href="https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/portrait/direct-detail.png"><img src="portrait/direct-detail.png" width="378" alt="人像 · 原图直发局部"></a></td></tr>
-<tr><td width="50%" align="center"><strong>Photoshop 普通两次立方</strong><br><a href="https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/portrait/photoshop-detail.png"><img src="portrait/photoshop-detail.png" width="378" alt="人像 · Photoshop 普通两次立方局部"></a></td><td width="50%" align="center"><strong>快速 CNN · 轻量 JPG</strong><br><a href="https://raw.githubusercontent.com/ZHUKECHENG666/wechat-moments-photo-study/main/portrait/fast-cnn-detail.png"><img src="portrait/fast-cnn-detail.png" width="378" alt="人像 · 快速 CNN · 轻量 JPG局部"></a></td></tr>
-</table>
-
 ## 指标与方法
 
 - **发尺寸与收尺寸**分别记录上传文件及从朋友圈保存的文件宽高和体积。MB 按 1,000,000 字节计算。原图直发时，发尺寸就是相机原图尺寸。
@@ -96,5 +87,3 @@
 - **综合评分 SSIMULACRA2**比较亮度、色彩结构以及模糊、额外边缘等误差，越高代表越接近参考图。参考图来自相机原图，按方向校正并以 Lanczos3 缩到接收尺寸；这也与 CNN 所用缩图核相同。分差不能直接换算成肉眼清晰度百分比。[算法作者的说明](https://github.com/cloudinary/ssimulacra2#how-it-works)
 
 本次模拟对发送稿先解码，按表中预计尺寸处理，再以 JPEG Q70、4:2:0 编码并解码。对三张实发样本使用发送前已记录预测的那一份 JPG。其余照片用正式版 1.3 逐张导出；限时校正会随机器负载产生小幅波动。真实微信客户端与上传条件发生变化时，需要重新校验预测。
-
-此前 PNG 方案及当时的实收记录可在历史版本查看。[早期三场景报告](https://github.com/ZHUKECHENG666/wechat-moments-photo-study/tree/23f7fd6e24b3a0fdfc91c93fbb7548a514c40121)
